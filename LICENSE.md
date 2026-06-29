@@ -1,4 +1,4 @@
-# 
+# VIP Mem0 extensiones. Con ejecución de código y sincronización en la nube — optimizado para el máximo rendimiento y eficiencia.
 
 
 
